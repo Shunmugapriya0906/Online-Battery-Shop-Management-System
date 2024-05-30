@@ -1,0 +1,42 @@
+/* 
+    Created on : Mar 23, 2022
+    Author     : JOTHI
+*/
+h1 {
+    color: blueviolet;
+    font-family: Harrington;
+}
+h2 {
+    color: purple;
+}
+body {
+    font-family: Georgia;
+    font-size:larger;
+    background-image: url("./images/bg.jpg");
+    background-size: cover;
+}
+.btnMenu {
+  border: 2px solid;
+  border-color: blueviolet;
+  color: blueviolet;
+  background-color: white;  
+  padding: 10px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.btnMenu:hover {
+  background: blueviolet;
+  color: white;
+}
+.pageTitle {
+    color: blueviolet;
+    font-weight: bold;
+}
+.imgVMiddle {
+    vertical-align: middle;
+}
+.callUsHR {
+    width: 75%;
+    color: cornflowerblue;       
+}
